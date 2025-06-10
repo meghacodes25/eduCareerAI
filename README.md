@@ -2,7 +2,27 @@
 
 CareerLearn AI is a modern web application that provides personalized learning paths and mentorship opportunities for various tech careers. The platform leverages AI to generate customized learning content and connects learners with industry professionals.
 
-![CareerLearn AI Platform](https://i.ibb.co/rG4JRrKf/Get-Started-With-Tippy.png)
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/d6d68c88-eb5d-47ae-94bd-9dc6dd4442e6" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/bb6ba1ae-10bc-4ee6-988d-3a191f443a17" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/cbd053c9-36be-47f3-9318-98044492aba3" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/7d0deee7-029e-4e6d-ac86-fee807beb392" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/e9f5fd48-9c2e-456e-9816-503760757ee3" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/fb85d63b-6940-4445-8aab-59a5801b48fd" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/4a2c5cdf-658c-4762-9910-a117712bb66a" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/830fcc0a-93e1-4a48-b9d8-f9914aeb9637" width="250"/></td>
+    <td></td>
+  </tr>
+</table>
+
+
+
 
 ## Features
 
