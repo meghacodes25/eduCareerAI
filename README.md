@@ -1,6 +1,6 @@
 # eduCareerAI - AI-Powered Career Learning Platform
 
-CareerLearn AI is a modern web application that provides personalized learning paths and mentorship opportunities for various tech careers. The platform leverages AI to generate customized learning content and connects learners with industry professionals.
+eduCareerAI is a modern web application that provides personalized learning paths and mentorship opportunities for various tech careers. The platform leverages AI to generate customized learning content and connects learners with industry professionals.
 
 
 <table>
