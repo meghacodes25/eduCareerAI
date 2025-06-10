@@ -2,7 +2,7 @@
 
 CareerLearn AI is a modern web application that provides personalized learning paths and mentorship opportunities for various tech careers. The platform leverages AI to generate customized learning content and connects learners with industry professionals.
 
-![CareerLearn AI Platform](https://i.ibb.co/MP5cq1z/Get-Started-With-Tippy.png)
+![CareerLearn AI Platform](https://i.ibb.co/rG4JRrKf/Get-Started-With-Tippy.png)
 
 ## Features
 
